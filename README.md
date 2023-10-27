@@ -17,7 +17,7 @@ This Jupyter Notebook, `Final_Project.ipynb`, is a part of a comprehensive proje
 8. [Results](#results)
 9. [Usage](#usage)
 10. [Contributing](#contributing)
-11. [License](#license)
+
 
 ### Introduction
 The banking industry relies on marketing campaigns to promote various financial products, including term deposits. This project's primary goal is to assist banking institutions in improving their marketing strategies by predicting which clients are more likely to subscribe to a term deposit.
